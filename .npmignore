@@ -1,0 +1,40 @@
+# 开发和测试文件
+.git
+.github
+.vscode
+.idea
+.editorconfig
+.eslintrc
+.eslintignore
+.prettierrc
+.prettierignore
+*.log
+*.tgz
+
+# 测试目录
+__tests__
+test
+tests
+coverage
+
+# 文档和示例
+docs
+examples
+demo
+
+# 源代码和构建文件
+src
+build
+dist
+
+# 配置文件
+.babelrc
+.travis.yml
+.gitlab-ci.yml
+tsconfig.json
+webpack.config.js
+rollup.config.js
+
+# 其他不需要发布的文件
+.DS_Store
+Thumbs.db

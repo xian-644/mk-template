@@ -1,0 +1,37 @@
+{
+  "name": "mk-template",
+  "version": "1.1.10",
+  "main": "index.js",
+  "bin": {
+    "mk-template": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "template",
+    "vue3",
+    "scaffold"
+  ],
+  "author": "maccura",
+  "license": "ISC",
+  "description": "一个用于快速创建项目模板的脚手架工具",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^9.4.1",
+    "fs-extra": "^11.1.1",
+    "inquirer": "^8.2.5"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maccura/mk-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maccura/mk-template/issues"
+  },
+  "homepage": "https://github.com/maccura/mk-template#readme"
+}
