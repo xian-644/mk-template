@@ -92,7 +92,7 @@ program
       console.log(chalk.yellow('3. 发布您的模板\n'));
       
       console.log(chalk.blue('请执行以下命令：'));
-      console.log(chalk.yellow('git clone https://github.com/maccura/mk-template.git'));
+      console.log(chalk.yellow('git clone https://github.com/xian-644/mk-template.git'));
       console.log(chalk.yellow('cd create-mk-template'));
       console.log(chalk.yellow('mkdir template-your-template-name'));
       console.log(chalk.yellow('# 将您的模板文件添加到 template-your-template-name 目录中'));

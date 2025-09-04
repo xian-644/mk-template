@@ -84,7 +84,7 @@ npx mk-template
 
 1. 克隆仓库
 ```bash
-git clone https://github.com/maccura/mk-template.git
+git clone https://github.com/xian-644/mk-template.git
 cd mk-template
 ```
 

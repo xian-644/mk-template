@@ -28,10 +28,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/maccura/mk-template.git"
+    "url": "https://github.com/xian-644/mk-template.git"
   },
   "bugs": {
-    "url": "https://github.com/maccura/mk-template/issues"
+    "url": "https://github.com/xian-644/mk-template.git/issues"
   },
-  "homepage": "https://github.com/maccura/mk-template#readme"
+  "homepage": "https://github.com/xian-644/mk-template.git#readme"
 }
